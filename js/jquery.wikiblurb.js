@@ -16,10 +16,10 @@
         var defaults = $.extend({
 	    wikiURL: "http://en.wikipedia.org/",
 	    apiPath: 'w',
-	    section: 2,
+	    section: 1,
 	    page: 'List_of_free_and_open-source_software_packages',
-	    removeLinks: false,	    
-	    type: 'all',
+	    removeLinks: true,	    
+	    type: 'text',
 	    customSelector: '',
 		filterSelector: ''
         }, options);
