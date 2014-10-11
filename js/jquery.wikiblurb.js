@@ -19,7 +19,7 @@
 	    section: 1,
 	    page: 'List_of_free_and_open-source_software_packages',
 	    removeLinks: true,	    
-	    type: 'text',
+	    type: 'all',
 	    customSelector: '',
 		filterSelector: ''
         }, options);
