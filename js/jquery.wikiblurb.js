@@ -17,7 +17,7 @@
 	    wikiURL: "http://en.wikipedia.org/",
 	    apiPath: 'w',
 	    section: 0,
-	    page: 'Jimi_Hendrix',
+	    page: 'List_of_free_and_open-source_software_packages',
 	    removeLinks: false,	    
 	    type: 'all',
 	    customSelector: '',
